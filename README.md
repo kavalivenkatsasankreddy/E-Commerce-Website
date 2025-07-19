@@ -37,6 +37,7 @@ JavaScript – Cart counter and interactive behavior
 
 📸 Screenshot
 
+<img width="1912" height="1137" alt="Image" src="https://github.com/user-attachments/assets/e3cf2be5-3dfa-41a0-9f0d-3a2aea78e8b3" />
 
 📌 How to Use
 
